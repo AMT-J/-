@@ -32,8 +32,6 @@
         return
     }
 
-    //滚动到末尾
-
     //获取题块列表
     var lists = document.querySelectorAll('.ulradiocheck')
     var ccc=0;
