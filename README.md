@@ -1,1 +1,3 @@
-# -
+-  Firstly，Download     [Tampermonkey](https://github.com/AMT-J/Object/tree/main/Tampermonkey)
+-  Secondly，Download`SourceCode.js`，and then copied into the Tampermonkey.
+-  Finally，Modify the code according to the comments in the code to use
