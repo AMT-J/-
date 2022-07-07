@@ -2,7 +2,7 @@
 // @name         问卷星百朗听力定制
 // @namespace    http://tampermonkey.net/
 // @version      3.3.1
-// @description  在洋洋大魔王_的基础上针对个人需求额二次开发
+// @description  在洋洋大魔王_的基础上针对个人需求二次开发
 // @author       AMT
 // @match        *://*.wjx.cn/*
 // @match        *://*.wjx.top/*
